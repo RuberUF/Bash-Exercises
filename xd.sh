@@ -1,6 +1,6 @@
 #!/bin/bash
 
-a="" # Espaciado inicial vacío
+a=""
 b=""
 for (( i=0; i<=100; i++ )); do
 
